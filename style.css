@@ -121,8 +121,8 @@ section {
     width: 260px;
     height: 260px;
     border-radius: 50%;
-    border: 15px solid transparent;
-    border-top: 15px solid #4bdf38;
+    border: 12px solid transparent;
+    border-top: 12px solid #4bdf38;
     animation: animate 4s linear infinite;
 
 }
@@ -150,8 +150,8 @@ section {
     top: 22px;
     right: 22px;
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     background: #93ff06;
     box-shadow: 0 0 0 10px #24ecff33,
     0 0 0 20px #24ecff22,
